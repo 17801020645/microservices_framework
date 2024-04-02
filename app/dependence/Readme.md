@@ -1,5 +1,5 @@
 
 
-shared理解：
+dependence理解：
 
-1、这里暂时
+外部依赖
